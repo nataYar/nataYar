@@ -1,6 +1,6 @@
 # about
 <h1 align="center">Hi , I'm Natalia 👋</h1>
-<h3 align="center">A former English Teacher, now a front-end developer, I enjoy studying human and programming languages, love solving problems and effectively communicate with both - people and computers. I'm a lifelong learner and an inquisitive developer!!</h3>
+<h3 align="center">A former English Teacher, now a Front-End developer, I enjoy studying human and programming languages, love solving problems and effectively communicate with both - people and computers. I'm a lifelong learner and an inquisitive developer!!</h3>
 
 - 🌱 I’m currently learning **UX/UI design.**
 
