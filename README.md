@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **UX/UI design.**
 
-- 💬 Ask me about **web development.**
-
 - 📫 How to reach me **n.yarysheva@gmail.com**
 
 - ⚡ Fun fact **I have lived in 4 countries.**
