@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Natalia 👋</h1>
 <h3 align="center">I'm a Front-End developer. I love solving problems and effectively communicate with both - people and computers. I'm a lifelong learner and an inquisitive developer! </h3>
 
-- 🌱 I’m currently learning **Node.js.**
+- 🌱 I’m currently learning **Tensorflow.js.**
 
 - 📫 How to reach me **n.yarysheva@gmail.com**
 
